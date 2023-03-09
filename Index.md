@@ -1,6 +1,6 @@
-- White   Uncategorized
-- Red     DM Hidden
-- Yellow  Mechanics
-- Green   Natural
-- Blue    Society
-- Purple  Campaign
+- White: Uncategorized
+- Red: DM Hidden
+- Yellow: Mechanics
+- Green: Natural
+- Blue: Society
+- Purple: Campaign
