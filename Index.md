@@ -1,4 +1,4 @@
-- White: Uncategorized
+- Blank: Uncategorized
 - Red: DM Hidden
 - Yellow: Mechanics
 - Green: Natural
