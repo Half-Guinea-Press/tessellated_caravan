@@ -1,13 +1,15 @@
 ## Powers
-- The cloud gatherer
+- The Cloud Gatherer
+- The Wave Maker
+- The Unseen
 
 ## Dominions
 - The throne of Olympus
-- The throne of Hades
+- The jailer of Tartarus
 - The throne of the sea
 
 ## Artifacts
 - The Scepter of Jove
 - The Bident
 - The Trident
-- 
+- The Helm of Hades
