@@ -1,6 +1,9 @@
 ---
 tag: 
   - directory
+alias:
+  -
+cssclass:
 ---
 
 - [[blank_card|Blank]]: Uncategorized
