@@ -1,3 +1,8 @@
+---
+tag: 
+  - directory
+---
+
 - [[blank_card|Blank]]: Uncategorized
 - [[red_card|Red]]: DM Hidden
 - [[yellow_card|Yellow]]: Mechanics
