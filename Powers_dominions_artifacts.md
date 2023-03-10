@@ -1,3 +1,8 @@
+---
+tag:
+  - red
+---
+
 ## Powers
 - The Cloud Gatherer
 - The Wave Maker
