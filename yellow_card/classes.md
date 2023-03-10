@@ -1,4 +1,4 @@
-## Canon DND 5e
+## Canon DND 5e Classes
 - Barbarian
 - Bard
 - Cleric
