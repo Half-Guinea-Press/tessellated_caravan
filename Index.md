@@ -1,6 +1,6 @@
-- Blank: Uncategorized
-- Red: DM Hidden
-- Yellow: Mechanics
-- Green: Natural
-- Blue: Society
-- Purple: Campaign
+- [[blank_card|Blank]]: Uncategorized
+- [[red_card|Red]]: DM Hidden
+- [[yellow_card|Yellow]]: Mechanics
+- [[green_card|Green]]: Natural
+- [[blue_card|Blue]]: Society
+- [[purple_card|Purple]]: Campaign
