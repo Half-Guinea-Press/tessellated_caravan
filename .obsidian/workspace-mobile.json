@@ -11,11 +11,28 @@
             "id": "6d638c1331e21701",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "yellow_card/species.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2b61995cecc3260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mímir.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Mímir.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Mímir.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +126,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Mímir.md"
+          }
         }
       }
     ],
@@ -123,14 +144,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d638c1331e21701",
+  "active": "d2b61995cecc3260",
   "lastOpenFiles": [
-    "Yellow.md",
-    "purple_card.md",
+    "blue_card/germanic_deities.md",
+    "Mímir.md",
+    "yellow_card/species.md",
+    "Ethnicities.md",
+    "red_card/hierarch.md",
+    "red_card/what_actually_happened.md",
+    "blue_card/campe.md",
     "Index.md",
+    "red_card/Powers_dominions_artifacts.md",
+    "blue_card/myths.md",
+    "yellow_card/classes.md",
+    "blue_card/slavic_deities.md",
+    "blue_card/greek_deities.md",
+    "red_card/characters_to_build.md",
+    "green_card.md",
+    "yellow_card.md",
     "red_card.md",
-    "Blank.md",
+    "purple_card.md",
+    "README.md",
+    "blue_card.md",
     "blank_card.md",
+    "Yellow.md",
+    "Blank.md",
     "Powers dominions artifacts.md",
     "Another.md"
   ]

@@ -6,6 +6,8 @@
 - Fall of Zeus
 
 ## Deities
-- Greek
-- Norse
-- Slavic
+- Greek[[greek_deities]]
+- Norse[[germanic_deities]]
+- Slavic[[slavic_deities]]
+
+[[campe]]

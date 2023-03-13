@@ -16,7 +16,7 @@ Lóðurr (Old Norse)	Contested	None attested	None attested	Poetic Edda, skaldic 
 Loki (Old Norse)	Contested	Sigyn, Svadilfari, Angrboda	Nari/Narfi, Váli, Fenrir, Hel, Jormungandr, and Sleipnir	Poetic Edda, Prose Edda, Heimskringla, Loka Táttur, Norwegian rune poem, Danish folk tales
 Móði and Magni (Old Norse)	"Courage" and "Strength"	None attested	None attested	Poetic Edda, Prose Edda
 Máni (Old Norse)	"Moon" (Gives his name to Monday).	None attested	None attested	Poetic Edda, Prose Edda
-Mímir (Old Norse)	"Rememberer"	None attested	Sons, unnamed	Poetic Edda, Prose Edda
+[[Mímir]] (Old Norse)	"Rememberer"	None attested	Sons, unnamed	Poetic Edda, Prose Edda
 Meili (Old Norse)	"the lovely one"[10]	None attested	None attested	Poetic Edda, Prose Edda
 Njörðr (Old Norse)	Contested	Once unnamed sister, once Skaði	Freyr, Freyja	Poetic Edda, Prose Edda, Heimskringla, Egils saga, Hauksbók ring oath, place names
 Odin: Óðinn (North Germanic), Wōden (West Germanic), *Wōðanaz (Proto-Germanic) (see List of names of Odin for more)	"Frenzy"[11]

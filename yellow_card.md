@@ -1,1 +1,3 @@
 Mechanics
+[[species]]
+[[classes]]

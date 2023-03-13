@@ -1,1 +1,5 @@
-Society
+# Social Sciences
+[[myths]]
+
+[[Ethnicities]]
+[[species]]
